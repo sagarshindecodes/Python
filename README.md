@@ -8,5 +8,3 @@ This repository contains hands-on Python projects for practice and portfolio bui
 2. **Password Generator** – Create secure passwords based on user preferences.
 
 Each folder contains the source code and documentation.
-
----
